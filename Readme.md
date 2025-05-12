@@ -1,3 +1,3 @@
-Projeto em que eu aprendo a utilizar o python
+Project where I learn to use Pythontesting
 
-testando se o commit funciona pela IDE
+ if the commit works through the IDE
